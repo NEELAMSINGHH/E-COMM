@@ -1,6 +1,6 @@
-#Paws & Claws - An Online Pet Store
+Paws & Claws - An Online Pet Store
 
-#Description
+Description
 
 This is a PHP and MySQL Database Project called Online Pet Shop Web App. This web application is a sort of e-Commerce or an Online Store. This online store contains the common features that can be found in some popular online store websites which are the Shopping cart, online payment, and more.
 This Online Pet Shop Web Application was developed using HTML, CSS, PHP, MySQL Database, JavaScript (jQuery/Ajax), Bootstrap, and start bootstrap free template. The system has 2 sides of the user Interface which are the Admin Panel and Store Side. The Admin Panel is the side/module of the system which can only be accessed by the store management or system admin. This side manages the data provided on the store side such as the categories and product list. The Store side/module is the public side of the application where clients or possible clients can browse and explore the products of the store and also place their order for their desired products. This application uses the PayPal library to handle online payments.
