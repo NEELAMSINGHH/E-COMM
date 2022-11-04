@@ -35,8 +35,10 @@ Good-to-have Features:
 3. Fuzzy Filtering
 
 Technical Stack:
+
 Frontend
 - HTML + CSS + JavaScript (jQuery/Ajax), Bootstrap and start bootstrap free template.
+
 Backend
 - PHP (for the website frameworks)
 - MySQL for DBMS
